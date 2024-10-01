@@ -20,3 +20,12 @@ Este repositorio contiene la implementación de un sistema de gestión académic
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/Allison827/Practica-calificada---Construcci-n-de-Software-I.git
+
+## Autor
+- Las Innombrables
+
+ <p align="center">
+  <a href="https://github.com/Las-Innombrables">
+    <img src="https://img.shields.io/badge/Visita%20Nuestro%20Repositorio-blue?logo=github" alt="Repositorio">
+  </a>
+</p>
