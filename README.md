@@ -1,4 +1,4 @@
-![Texto alternativo](https://aimlc-iitd.netlify.app/static/4650c83fda861c4ab6275175573643a1/361cf/featured_python.png)
+![Texto alternativo]([https://aimlc-iitd.netlify.app/static/4650c83fda861c4ab6275175573643a1/361cf/featured_python.png](https://edteam-media.s3.amazonaws.com/blogs/original/6b6cd89b-8de5-4e12-9636-5fd21f4af84f.png))
 # Práctica calificada - Construcción de Software I
 
 ## Descripción
@@ -26,13 +26,9 @@ Este repositorio contiene la implementación de un sistema de gestión académic
 
 4. Ejecuta el proyecto en tu servidor local.
 
-## Uso
-- Abre el navegador y accede a https://localhost:44377/frmLogin para iniciar sesión.
-- Después de iniciar sesión, podrás acceder a las diferentes funcionalidades del sistema.
-- 
 ## Contribuciones
 - Si deseas contribuir a este proyecto, por favor crea un fork del repositorio y envía un pull request.
-- 
+
 ## Autor
 - Las Innombrables
 
