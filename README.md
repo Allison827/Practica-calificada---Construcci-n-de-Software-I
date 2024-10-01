@@ -1,3 +1,4 @@
+![Texto alternativo](https://aimlc-iitd.netlify.app/static/4650c83fda861c4ab6275175573643a1/361cf/featured_python.png)
 # Práctica calificada - Construcción de Software I
 
 ## Descripción
