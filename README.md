@@ -1,4 +1,4 @@
-![Texto alternativo]([https://aimlc-iitd.netlify.app/static/4650c83fda861c4ab6275175573643a1/361cf/featured_python.png](https://edteam-media.s3.amazonaws.com/blogs/original/6b6cd89b-8de5-4e12-9636-5fd21f4af84f.png))
+![Texto alternativo](https://edteam-media.s3.amazonaws.com/blogs/original/6b6cd89b-8de5-4e12-9636-5fd21f4af84f.png)
 # Práctica calificada - Construcción de Software I
 
 ## Descripción
