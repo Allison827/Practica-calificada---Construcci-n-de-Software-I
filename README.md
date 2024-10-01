@@ -20,7 +20,19 @@ Este repositorio contiene la implementación de un sistema de gestión académic
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/Allison827/Practica-calificada---Construcci-n-de-Software-I.git
+2. Abre el proyecto en Visual Studio.
 
+3. Configura la cadena de conexión en el archivo web.config para conectar a tu base de datos.
+
+4. Ejecuta el proyecto en tu servidor local.
+
+## Uso
+- Abre el navegador y accede a https://localhost:44377/frmLogin para iniciar sesión.
+- Después de iniciar sesión, podrás acceder a las diferentes funcionalidades del sistema.
+- 
+## Contribuciones
+- Si deseas contribuir a este proyecto, por favor crea un fork del repositorio y envía un pull request.
+- 
 ## Autor
 - Las Innombrables
 
